@@ -1,0 +1,2 @@
+name = input("Enter your name: ") # input() function is used to get user input
+print("Hello, " + name + "\n Good Morning") # string concatenation is used to combine the string "Hello, " with the user input and the string "\n Good Morning"
