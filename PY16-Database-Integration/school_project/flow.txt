@@ -1,0 +1,16 @@
+db_config.py
+    ↓
+creates database connection
+
+course_operations.py
+    ↓
+handles courses table
+
+student_operations.py
+    ↓
+handles students table
+
+main.py
+    ↓
+calls all functions
+
